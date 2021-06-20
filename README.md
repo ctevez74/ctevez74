@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![coqui_github_profile](https://user-images.githubusercontent.com/67551873/122688941-c5c2c200-d1f5-11eb-8af8-c9b1b6ee7592.jpg)
 <!--
 **ctevez74/ctevez74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
